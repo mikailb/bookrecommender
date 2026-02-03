@@ -99,7 +99,4 @@ Full API docs: [Swagger UI](http://localhost:8080/swagger-ui.html)
 └── .github/workflows/      # CI/CD
 ```
 
-## License
-
-MIT
 
