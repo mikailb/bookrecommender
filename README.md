@@ -1,6 +1,6 @@
 # 📚 BookRec - Book Recommendation System
 
-![CI](https://github.com/mikailb/bookrecommender/workflows/CI/badge.svg)
+
 
 A full-stack book recommendation application with personalized suggestions based on your reading history.
 
